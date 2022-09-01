@@ -1,8 +1,7 @@
 # Hello Data Science World :tada: :confetti_ball:
-
+<pre>
 *This is my first project so please give me your suggestions. This is very important for me to improve myself* :blush:
-
-
+<pre>
 ![stroke_prediction_page-0001](https://user-images.githubusercontent.com/79712981/187963973-13e796f9-2adc-4511-9e0c-0aa3a7d8a502.jpg)
 ![stroke_prediction_page-0002](https://user-images.githubusercontent.com/79712981/187964001-77ba9867-4e77-4ade-91be-a5f5dc73c8c7.jpg)
 ![stroke_prediction_page-0003](https://user-images.githubusercontent.com/79712981/187964017-7f9a1619-a7dd-4ccf-a44d-51e1d0618038.jpg)
