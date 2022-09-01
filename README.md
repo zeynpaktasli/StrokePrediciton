@@ -1,2 +1,6 @@
-![zeynep](https://user-images.githubusercontent.com/79712981/187956230-d43b1079-28ac-4094-bd60-cf3bb9e7ff78.jpeg)
-[stroke_prediction.pdf](https://github.com/zeynpaktasli/StrokePrediciton/files/9471306/stroke_prediction.pdf)
+![1 (2)](https://user-images.githubusercontent.com/79712981/187958634-92cd1d6e-0de0-46be-a96b-d0139b0c417d.png)
+![2](https://user-images.githubusercontent.com/79712981/187958650-f9b84b65-647c-4ff5-9f89-be2012593d57.png)
+![3](https://user-images.githubusercontent.com/79712981/187958672-a24e49fa-83c8-41f2-930b-e2f3b1bfb922.png)
+![4](https://user-images.githubusercontent.com/79712981/187958685-901f789e-9070-4e1f-886e-8aff81c30b4d.png)
+![5](https://user-images.githubusercontent.com/79712981/187958699-4d50e3ce-e440-41d4-a318-90e263fdeba7.png)
+![6](https://user-images.githubusercontent.com/79712981/187958709-fe3fe9cf-9352-4dc2-9e91-1c9cbe466da2.png)
